@@ -21,9 +21,9 @@ alert-highlight: <<colour magenta>>
 alert-muted-foreground: <<colour base01>>
 background: <<colour base03>>
 blockquote-bar: <<colour muted-foreground>>
-code-background: <<colour base3>>
+code-background: <<colour page-background>>
 code-border: <<colour foreground>>
-code-foreground: <<colour base00>>
+code-foreground: <<colour base1>>
 download-background: <<colour primary>>
 download-foreground: <<colour background>>
 dragger-background: <<colour foreground>>
