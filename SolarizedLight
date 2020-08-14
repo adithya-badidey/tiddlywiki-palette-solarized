@@ -1,0 +1,129 @@
+title: $:/palettes/SolarizedLight
+tags: $:/tags/Palette
+type: application/x-tiddler-dictionary
+description: Precision colors for machines and people
+license: MIT, Ethan Schoonover, https://github.com/altercation/solarized/blob/master/LICENSE
+name: SolarizedLight
+
+base03: #002b36
+base02: #073642
+base01: #586e75
+base00: #657b83
+base0: #839496
+base1: #93a1a1
+base2: #eee8d5
+base3: #fdf6e3
+yellow: #b58900
+orange: #cb4b16
+red: #dc322f
+magenta: #d33682
+violet: #6c71c4
+blue: #268bd2
+cyan: #2aa198
+green: #859900
+
+alert-background: <<colour base2>>
+alert-border: <<colour base01>>
+alert-highlight: <<colour magenta>>
+alert-muted-foreground: <<colour magenta>>
+background: <<colour base2>>
+blockquote-bar: <<colour magenta>>
+button-background: <<colour base2>>
+button-border: <<colour base1>>
+button-foreground: <<colour base01>>
+code-background: <<colour base2>>
+code-border: <<colour base1>>
+code-foreground: <<colour base01>>
+dirty-indicator:  inherit
+download-background: <<colour green>>
+download-foreground: <<colour base2>>
+dragger-background: <<colour base2>>
+dragger-foreground: <<colour base00>>
+dropdown-background: <<colour base2>>
+dropdown-border: <<colour base01>>
+dropdown-tab-background: <<colour base3>>
+dropdown-tab-background-selected: <<colour base2>>
+dropzone-background: <<colour green>>
+external-link-background:  inherit
+external-link-background-hover:  inherit
+external-link-background-visited:  inherit
+external-link-foreground: <<colour blue>>
+external-link-foreground-hover:  inherit
+external-link-foreground-visited: <<colour blue>>
+foreground: <<colour base00>>
+message-background: <<colour base3>>
+message-border: <<colour base1>>
+message-foreground: <<colour base00>>
+modal-backdrop: <<colour base0>>
+modal-background: <<colour base3>>
+modal-border: <<colour base1>>
+modal-footer-background: <<colour base2>>
+modal-footer-border: <<colour base1>>
+modal-header-border: <<colour base1>>
+muted-foreground: <<colour base01>>
+notification-background: <<colour base3>>
+notification-border: <<colour base1>>
+page-background: <<colour base2>>
+pre-background: <<colour base2>>
+pre-border: <<colour base0>>
+primary: <<colour green>>
+select-tag-background: <<colour base3>>
+select-tag-foreground: <<colour base00>>
+sidebar-button-foreground: <<colour base01>>
+sidebar-controls-foreground: <<colour base01>>
+sidebar-controls-foreground-hover: <<colour magenta>>
+sidebar-foreground: <<colour base01>>
+sidebar-foreground-shadow:  transparent
+sidebar-muted-foreground: <<colour base00>>
+sidebar-muted-foreground-hover: <<colour base01>>
+sidebar-tab-background: <<colour base3>>
+sidebar-tab-background-selected: <<colour base2>>
+sidebar-tab-border: <<colour base2>>
+sidebar-tab-border-selected: <<colour base00>>
+sidebar-tab-divider: <<colour base3>>
+sidebar-tab-foreground: <<colour base0>>
+sidebar-tab-foreground-selected: <<colour base01>>
+sidebar-tiddler-link-foreground: <<colour cyan>>
+sidebar-tiddler-link-foreground-hover: <<colour base03>>
+site-title-foreground: <<colour magenta>>
+static-alert-foreground: <<colour base01>>
+tab-background: <<colour base2>>
+tab-background-selected: <<colour base3>>
+tab-border: <<colour base1>>
+tab-border-selected: <<colour base01>>
+tab-divider: <<colour base01>>
+tab-foreground: <<colour base00>>
+tab-foreground-selected: <<colour base01>>
+table-border: <<colour base1>>
+table-footer-background: <<colour base2>>
+table-header-background: <<colour base2>>
+tag-background: <<colour yellow>>
+tag-foreground: <<colour base3>>
+tiddler-background: <<colour base3>>
+tiddler-border: <<colour base1>>
+tiddler-controls-foreground:  inherit
+tiddler-controls-foreground-hover: <<colour magenta>>
+tiddler-controls-foreground-selected: <<colour cyan>>
+tiddler-editor-background: <<colour base3>>
+tiddler-editor-border: <<colour base2>>
+tiddler-editor-border-image: <<colour base3>>
+tiddler-editor-fields-even: <<colour base3>>
+tiddler-editor-fields-odd: <<colour base2>>
+tiddler-info-background: <<colour base2>>
+tiddler-info-border: <<colour base0>>
+tiddler-info-tab-background: <<colour base3>>
+tiddler-link-background: <<colour base3>>
+tiddler-link-foreground: <<colour cyan>>
+tiddler-subtitle-foreground: <<colour base00>>
+tiddler-title-foreground: <<colour magenta>>
+toolbar-cancel-button: <<colour base00>>
+toolbar-close-button: <<colour base00>>
+toolbar-delete-button: <<colour red>>
+toolbar-done-button: <<colour base00>>
+toolbar-edit-button: <<colour base00>>
+toolbar-info-button: <<colour base00>>
+toolbar-new-button: <<colour base00>>
+toolbar-options-button: <<colour base00>>
+toolbar-save-button:  inherit
+untagged-background: <<colour base01>>
+very-muted-foreground: <<colour base1>>
